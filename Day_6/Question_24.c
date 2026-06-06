@@ -3,7 +3,7 @@ int main()
 {
     int base;
     int power;
-    int result = 1;
+    int result=1;
     int i;
 
     printf("Enter the base(x):");
